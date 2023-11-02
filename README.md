@@ -21,7 +21,7 @@ they are equipped with separate denoising schemes, on five real-world graphs und
 - nuim_hiddens: number of hidden units in the GCN variant
 - num_epochs: minimum epochs
 - max_epochs: maximum epochs
-- num_pateince: number of epochs with no improvement of modulairty after which training will be stopped
+- num_pateince: number of epochs with no improvement of modularity after which training will be stopped
 - c_lr: learning rate of the clustering model
 - m_lr: learning rate of the meta model
 
